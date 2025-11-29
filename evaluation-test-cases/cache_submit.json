@@ -1,0 +1,6 @@
+{
+  "email": "24ds1000070@ds.study.iitm.ac.in",
+  "secret": "anjali2025",
+  "url": "https://tds-llm-analysis.s-anand.net/project2-cache",
+  "answer": "- uses: actions/cache@v4\n  with:\n    path: ~/.npm\n    key: ${{ hashFiles('**/package-lock.json') }}\n    restore-keys: |\n      npm-"
+}

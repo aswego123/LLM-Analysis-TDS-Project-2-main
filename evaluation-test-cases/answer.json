@@ -1,0 +1,6 @@
+{
+  "email": "24ds1000070@ds.study.iitm.ac.in",
+  "secret": "anjali2025",
+  "url": "https://tds-llm-analysis.s-anand.net/project2-csv",
+  "answer": "[{\"id\":1,\"name\":\"Alpha\",\"joined\":\"2024-01-30T00:00:00Z\",\"value\":5},{\"id\":2,\"name\":\"Gamma\",\"joined\":\"2024-02-01T00:00:00Z\",\"value\":7},{\"id\":3,\"name\":\"Beta\",\"joined\":\"2024-02-01T00:00:00Z\",\"value\":10}]"
+}
