@@ -1,19 +1,8 @@
-curl -X POST http://localhost:7860/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tdsbasictest.vercel.app/quiz/1\"}"
+curl -X POST https://llm-analysis-tds-project-2-main-production.up.railway.app/ -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tdsbasictest.vercel.app/quiz/1\"}"
 
 
-curl -X POST http://localhost:7860/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tds-llm-analysis.s-anand.net/demo\"}"
+curl -X POST https://llm-analysis-tds-project-2-main-production.up.railway.app -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tds-llm-analysis.s-anand.net/demo\"}"
 
-curl -X POST http://localhost:7860/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tds-llm-analysis.s-anand.net/demo2\"}"
+curl -X POST https://llm-analysis-tds-project-2-main-production.up.railway.app/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://tds-llm-analysis.s-anand.net/demo2\"}"
 
-curl -X POST http://localhost:7860/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://p2testingone.vercel.app/q1.html\"}"
-
-
-```bash
-curl -X POST http://localhost:7860/solve \
-  -H "Content-Type: application/json" \
-  -d '{
-    "email": "24ds1000070@ds.study.iitm.ac.in",
-    "secret": "anjali2025",
-    "url": "https://tds-llm-analysis.s-anand.net/demo"
-  }'
-```
+curl -X POST https://llm-analysis-tds-project-2-main-production.up.railway.app/solve -H "Content-Type: application/json" -d "{\"email\": \"24ds1000070@ds.study.iitm.ac.in\", \"secret\": \"anjali2025\", \"url\": \"https://p2testingone.vercel.app/q1.html\"}"
